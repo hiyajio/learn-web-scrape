@@ -1,1 +1,1 @@
-# Learn Web Scraping - Python
+# Learn Web Scraping
